@@ -1,1 +1,1 @@
-MORTE AO CARINHA DAS QUERIES
+Projetos conduzidos ao longo do curso LM Tech Data Talents
